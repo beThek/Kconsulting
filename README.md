@@ -1,53 +1,5 @@
 # Kconsulting
 
-Last login: Tue Oct  3 11:09:36 on ttys000
-You have new mail.
-MacBook-Pro-de-Kreshnik:~ Home$ ls
-Applications		Dropbox			Pictures
-BITBUCKET		GITHUB			Public
-Creative Cloud Files	Library			VirtualBox VMs
-Desktop			Movies			iCloud Drive (archive)
-Documents		Music			myWEBSITE-portfolio
-Downloads		PROJECTS
-MacBook-Pro-de-Kreshnik:~ Home$ cd BITBUCKET/
-MacBook-Pro-de-Kreshnik:BITBUCKET Home$ ls
-kconsulting
-MacBook-Pro-de-Kreshnik:BITBUCKET Home$ clear
-
-
-
-
-
-
-
-
-
-
-
-MacBook-Pro-de-Kreshnik:BITBUCKET Home$ ls
-kconsulting
-MacBook-Pro-de-Kreshnik:BITBUCKET Home$ cd kconsulting/
-MacBook-Pro-de-Kreshnik:kconsulting Home$ ls
-README.md
-MacBook-Pro-de-Kreshnik:kconsulting Home$ nano README.md 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   GNU nano 2.0.6              File: README.md                                   
 
 # README #
